@@ -37,15 +37,9 @@ body{
 }
 #adv-search{
 	padding-bottom: 50px;
-    width: 1065px;
 }
 
-.col-sm-4 {
-    width: 245px;
-    margin: 20px;
-}
-
-.col-sm-4 h4 {
+.col-sm-3 h4 {
     color: #CCC;
 }
 
