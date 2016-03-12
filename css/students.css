@@ -39,8 +39,18 @@ body{
 	padding-bottom: 50px;
 }
 
+.col-sm-3 {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
 .col-sm-3 h4 {
     color: #CCC;
+}
+
+.img-responsive {
+    margin-top: 10px;
 }
 
 footer p{
